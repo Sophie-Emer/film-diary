@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583896642412",
+    "project_id": "film-diary",
+    "storage_bucket": "film-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583896642412:android:09fed62d5c907e3cb2b949",
+        "android_client_info": {
+          "package_name": "com.sonya.filmdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583896642412-2sc2g7morb3nl3km6qc4rfvgirrcuaof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkinQgwTRh1F0pLLUx9PCK_P0m68xzuQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583896642412-2sc2g7morb3nl3km6qc4rfvgirrcuaof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
